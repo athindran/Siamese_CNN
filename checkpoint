@@ -1,0 +1,2 @@
+model_checkpoint_path: "pedestrian_test.ckpt"
+all_model_checkpoint_paths: "pedestrian_test.ckpt"
